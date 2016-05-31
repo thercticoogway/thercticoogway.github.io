@@ -1,1 +1,1 @@
-http://github.com/thercticoogway/thercticoogway.github.io
+@author: Aibek Ikram
